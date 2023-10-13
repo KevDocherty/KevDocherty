@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Short bio: background in marine survey, data analytics, electronic engineering, and coding.
 <!--
 **KevDocherty/KevDocherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
